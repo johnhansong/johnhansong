@@ -16,7 +16,7 @@ Before transitioning into tech, I worked as an immigration paralegal supporting 
 - Other: Git/GitHub, Docker, REST APIs, Firebase, AWS S3
 
 ## 📂 Projects
-- 💾 [**alTab**](https://github.com/yourusername/altab) | [Github](https://github.com/johnhansong/altab) – Catalog and explore interesting websites (React, Redux, Flask, SQLAlchemy)  
+- 💾 [**alTab**](https://altab.onrender.com/) | [Github](https://github.com/johnhansong/altab) – Catalog and explore interesting websites (React, Redux, Flask, SQLAlchemy)  
 - 📖 [**Bible-Type**](https://bible-type.netlify.app/) | [Github](https://github.com/johnhansong/bibleType) – Typing practice with Bible passages (React, Firebase, Context API)    
 - 🌐 [**ChatIRL**](https://chatirl.onrender.com/) | [Github](https://github.com/johnhansong/chatIRL) – Meetup clone (Socket.IO, React, Express)  
 
