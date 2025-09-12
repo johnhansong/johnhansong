@@ -5,9 +5,9 @@ I’m a UC Berkeley graduate with a Bachelor’s degree in Philosophy, currently
 Before transitioning into tech, I worked as an immigration paralegal supporting Fortune 500 tech companies, where I honed strong skills in critical analysis, attention to detail, and time management—skills that now directly enhance my engineering work.
 
 ## 🚀 What I’m Working On
-- 💻 Completed 2 solo and 1 collaborative full-stack projects (with more in progress).
+- 📱 A React-Native based mobile application.
 - 🔨 Building projects with React, Redux, Flask, Express, Node.js, PostgreSQL, and Sequelize.
-- 📱 Exploring opportunities in full stack software development.
+- Exploring opportunities in full-stack/mobile software development.
 
 ## 🛠️ Tech Stack
 - Frontend: React, Redux, JavaScript (ES6+), HTML, CSS
