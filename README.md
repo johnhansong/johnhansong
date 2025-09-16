@@ -1,13 +1,13 @@
 # 👋 Hi there, I’m John
 ## 👨‍💻 About Me
-I’m a UC Berkeley graduate with a Bachelor’s degree in Philosophy, currently working as a Full Stack Software Engineer Intern at a startup in Los Angeles.
+I’m a UC Berkeley graduate with a Bachelor’s degree in Philosophy, most recently wrapped up a Full Stack Software Engineer internship at a startup in Los Angeles.
 
-Before transitioning into tech, I worked as an immigration paralegal supporting Fortune 500 tech companies, where I honed strong skills in critical analysis, attention to detail, and time management—skills that now directly enhance my engineering work.
+Before transitioning into tech, I worked as an immigration paralegal supporting Fortune 500 tech companies, where I honed strong skills in critical analysis, attention to detail, and time management—skills that now directly enhance my engineering work. 
 
 ## 🚀 What I’m Working On
 - 📱 A React-Native based mobile application.
-- 🔨 Building projects with React, Redux, Flask, Express, Node.js, PostgreSQL, and Sequelize.
-- Exploring opportunities in full-stack/mobile software development.
+- 🔨 Improving existing projects with React, Redux, Flask, Express, Node.js, PostgreSQL, and Sequelize.
+- 🔍 Exploring opportunities in full-stack/mobile software development.
 
 ## 🛠️ Tech Stack
 - Frontend: React, Redux, JavaScript (ES6+), HTML, CSS
