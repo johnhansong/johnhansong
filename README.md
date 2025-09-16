@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m John
 ## 👨‍💻 About Me
-I’m a UC Berkeley graduate with a Bachelor’s degree in Philosophy, most recently wrapped up a Full Stack Software Engineer internship at a startup in Los Angeles.
+I’m a UC Berkeley graduate with a Bachelor’s degree in Philosophy, recently wrapped up a Full Stack Software Engineer internship at a startup in Los Angeles.
 
 Before transitioning into tech, I worked as an immigration paralegal supporting Fortune 500 tech companies, where I honed strong skills in critical analysis, attention to detail, and time management—skills that now directly enhance my engineering work. 
 
