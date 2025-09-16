@@ -5,7 +5,7 @@ I’m a UC Berkeley graduate with a Bachelor’s degree in Philosophy, recently 
 Before transitioning into tech, I worked as an immigration paralegal supporting Fortune 500 tech companies, where I honed strong skills in critical analysis, attention to detail, and time management—skills that now directly enhance my engineering work. 
 
 ## 🚀 What I’m Working On
-- 📱 A React-Native based mobile application.
+- 📱 A Expo/React Native based mobile application with TypeScript, Supabase (Auth/Postgres/Storage), and client-side AES-GCM encryption.
 - 🔨 Improving existing projects with React, Redux, Flask, Express, Node.js, PostgreSQL, and Sequelize.
 - 🔍 Exploring opportunities in full-stack/mobile software development.
 
